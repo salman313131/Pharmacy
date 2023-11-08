@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007BFF;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 20px;
+}
+.main h1 {
+    margin: 0;
+}
+
+.main button {
+    background-color: #4f8ec2;
+    border: none;
+    margin-right: 80px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 20%;
+}
